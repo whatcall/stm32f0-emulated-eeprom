@@ -1,0 +1,1 @@
+Documentation files are removed becaue they are not used in our project.
